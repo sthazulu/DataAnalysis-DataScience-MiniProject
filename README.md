@@ -1,6 +1,6 @@
 # Customer Support Insights Analysis
 
-This is a beginner-friendly Data Science project analysing customer support data to uncover trends in issues, resolution times, and customer satisfaction.
+This is a Data Science mini project analysing customer support data to uncover trends in issues, resolution times, and customer satisfaction.
 
 ## Project Overview
 This project explores a small dataset containing customer support tickets.  
