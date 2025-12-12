@@ -1,0 +1,16 @@
+Ticket_ID,Customer_Type,Issue_Category,Resolution_Time_Hours,Satisfaction_Rating
+1,Individual,Payment,5,4
+2,Business,Technical,12,3
+3,Individual,Account,3,5
+4,Business,Payment,8,2
+5,Individual,Technical,15,3
+6,Business,Account,4,4
+7,Individual,Technical,18,2
+8,Business,Payment,6,4
+9,Individual,Account,2,5
+10,Business,Technical,10,3
+11,Individual,Payment,7,2
+12,Business,Account,5,4
+13,Individual,Technical,20,1
+14,Business,Payment,4,5
+15,Individual,Account,3,4
