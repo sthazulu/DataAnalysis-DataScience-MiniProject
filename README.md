@@ -8,7 +8,7 @@ The goal is to identify patterns that can be used to improve customer experience
 
 ## What’s Inside the Project
 - `customer_support_data.csv` — sample dataset  
-- `customer_support_analysis.ipynb` — Python notebook with code, graphs, and insights  
+- `customer_support_data_analysis.ipynb` — Python notebook with code, graphs, and insights  
 - Visualisations created using Matplotlib  
 - Summary of findings
 
