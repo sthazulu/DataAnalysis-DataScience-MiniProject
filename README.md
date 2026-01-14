@@ -1,6 +1,6 @@
 # Customer Support Insights Analysis
 
-This is a Data Science mini project analysing customer support data to uncover trends in issues, resolution times, and customer satisfaction.
+A Data Science mini project showcasing skills developed so far during my data science bootcamp through the analysis of customer support data to identify trends in issues, resolution times, and customer satisfaction.
 
 ## Project Overview
 This project explores a small dataset containing customer support tickets.  
